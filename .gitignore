@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# PDF
+*.pdf
+
+# Environment variables
+.env
